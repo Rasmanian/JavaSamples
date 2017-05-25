@@ -1,5 +1,3 @@
-/** Test 
-author Test**/
 
 class Solution
 { 
