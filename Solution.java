@@ -1,6 +1,3 @@
-
-
-
 /* One more check in to Branch 2 */
 
 class Solution
